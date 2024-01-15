@@ -3,6 +3,7 @@
 
 - 👨🏻‍💻  Sou Desenvolvedor Backend 
 - 📖 Atualmente estou estudando Python
+- 💬 Fale comigo sobre Futebol ⚽, Games 🎮, Curiosidades 🌎, Memes 😂.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
