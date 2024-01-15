@@ -1,4 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Lucas</h1>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" align="right">
 
 - 👨🏻‍💻  Sou Desenvolvedor Backend 
 - 📖 Atualmente estou estudando Python
